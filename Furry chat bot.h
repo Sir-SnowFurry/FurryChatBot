@@ -1,5 +1,5 @@
 //
-// Program Name: FurryBuddy
+// Program Name: Ash
 // Description: Making a bot for furry convetions!!
 //
 // Author: Nicholas LaFave (Snow Shadow)
@@ -27,8 +27,8 @@ typedef struct {
 
 record KnowledgeBase[] = {
     {"WHAT IS YOUR NAME", 
-    {"MY NAME IS CHATTERBOT2.",
-     "YOU CAN CALL ME CHATTERBOT2.",
+    {"MY NAME IS Ash.",
+     "YOU CAN CALL ME Ash.",
      "WHY DO YOU WANT TO KNOW MY NAME?"}
     },
 
